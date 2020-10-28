@@ -1,0 +1,19 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.0",
+    "@nomiclabs/hardhat-waffle": "^2.0.0",
+    "@typechain/ethers-v5": "^2.0.0",
+    "chai": "^4.2.0",
+    "ethereum-waffle": "^3.1.2",
+    "ethers": "^5.0.19",
+    "hardhat": "^2.0.2",
+    "ts-node": "^9.0.0",
+    "typechain": "^3.0.0",
+    "typescript": "^4.0.5"
+  },
+  "dependencies": {
+    "hardhat-typechain": "^0.3.3",
+    "ts-generator": "^0.1.1"
+  }
+}
